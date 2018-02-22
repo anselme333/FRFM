@@ -1,11 +1,14 @@
 FRFM: Fast and Reliable Forwarding  Mechanism for Content Centric Networking (CCN)
----------------
+---------------------------------------------
+---------------------------------------------
 Simulation code:
----------------
-Simulation code is available in examples/frfm.cpp
-Simulation code is available in examples/frfm_multipath.cpp
+---------------------------------------------
+---------------------------------------------
+Simulation code: examples/frfm.cpp, examples/frfm_multipath.cpp
+
 ndnSim version: ndnSIM 2.1
--------------------------------------------- 
+---------------------------------------------
+---------------------------------------------
 
 [ndnSIM documentation](http://ndnsim.net)
 ---------------------------------------------
